@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Herní katalog</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <div id="header-image">
+            <img src="image/arcane.png" alt="Arcane Image">
+        </div>
+
+        <div id="filters">
+            <button onclick="fetchGames('all')">Všechny</button>
+            <button onclick="fetchGames('Adventure')">Adventure</button>
+            <button onclick="fetchGames('FPS')">FPS</button>
+            <button onclick="fetchGames('Horror')">Horror</button>
+            <button onclick="fetchGames('Puzzle')">Puzzle</button>
+            <button onclick="fetchGames('Racing')">Racing</button>
+            <button onclick="fetchGames('RPG')">RPG</button>
+            <button onclick="fetchGames('RTS')">RTS</button>
+            <button onclick="fetchGames('Soulslike')">Soulslike</button>
+            <button onclick="fetchGames('Sports')">Sports</button>
+        </div>
+    </header>
+
+    <div id="gallery">
+        
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Žánry her®. All rights reserved.</p>
+    </footer>
+</body>
+</html>

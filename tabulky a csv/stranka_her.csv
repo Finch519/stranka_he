@@ -1,0 +1,40 @@
+﻿ID;Name;image;Description;year;genre
+1;Counter Strike: Globa offensive;image_1.webp;Legendární týmová střílečka zaměřená na taktiku a týmovou spolupráci. Hráči se střetávají v intenzivních zápasech plných napětí a akce.;2012;FPS
+10;Amnesia: The Bunker;image_10.webp;Intenzivní survival horor zasazený do tajemného vojenského bunkru. Přežití závisí na hráčově odvaze a schopnosti čelit neznámým hrozbám.;2023;Horror
+11;Total War 2: Shogun;image_11.webp;Historická strategie, která vás zavede do období feudálního Japonska. Hra kombinuje tahové řízení říše a epické bitvy v reálném čase.;2011;RTS
+12;Dragons Dogma II;image_12.webp;RPG s otevřeným světem plným magických stvoření, epických úkolů a nebezpečných soubojů. Hráči mohou tvořit vlastní dobrodružství a rozhodovat o osudu světa.;2024;RPG
+13;Call of Duty: Modern Warfare;image_13.webp;Akční střílečka s realistickými bitvami a propracovaným příběhem. Hráči se ocitají ve vojenských operacích po celém světě.;2019;FPS
+14;Elden ring;image_14.webp;Epické RPG od tvůrců Dark Souls, zasazené do otevřeného světa plného tajemství. Hra kombinuje obtížné souboje a hluboký příběh s nádherným designem.;2022;Soulslike
+15;Tony Hawk´s Pro Skater 1+2;image_15.webp;Remasterované verze ikonických skateboardových her. Hráči mohou předvádět triky na známých tratích s realistickou fyzikou.;2020;Sports
+16;F1 24;image_16.webp;Nejnovější závodní simulace se zaměřením na F1. Nabízí realistickou fyziku, aktuální týmy a tratě ze skutečného šampionátu.;2023;Racing
+17;Life is Strange;image_17.webp;Emocionální adventura o mladé dívce s unikátní schopností manipulace s časem. Příběh je plný dramatických momentů a těžkých rozhodnutí.;2015;Adventure
+18;Silent Hill 2;image_18.webp;Remake hororové klasiky s moderní grafikou a atmosférou. Hráči se vydávají na temnou cestu plnou psychologického napětí.;2023;Horror
+19;Final Fantasy: Rebirth;image_19.webp;Pokračování legendární série, která kombinuje hluboký příběh, epické bitvy a nádherný svět. RPG, které si fanoušci nemohou nechat ujít.;2024;RPG
+2;Sekiro: Shadows die twice;image_2.webp;Soulslike akce plná epických soubojů, kde dovednosti rozhodují o životě a smrti. Hra je zasazena do mystického Japonska a nabízí hluboký příběh.;2019;Soulslike
+20;The Room4: Old Sins;image_20.webp;Logická hra s důrazem na detailní hádanky a tajemnou atmosféru. Hráči se snaží rozluštit záhady a najít skryté předměty.;2018;Puzzle
+21;The Walking Dead;image_21.webp;Dobrodružství o přežití ve světě plném nemrtvých. Hra klade důraz na emocionální příběh a rozhodování hráče.;2012;Adventure
+22;NBA 2K23;image_22.webp;Basketbalová simulace s realistickým pohybem hráčů a autentickou atmosférou. Hráči mohou vést svůj tým až na vrchol NBA.;2022;Sports
+23;Doom Eternal;image_23.webp;Akční střílečka s démonickými protivníky a dynamickou akcí. Hráči čelí hordám nepřátel v intenzivních soubojích.;2020;FPS
+24;Overwatch 2;image_24.webp;Týmová akční hra zaměřená na spolupráci a rychlé tempo. Hráči si mohou vybrat z různých hrdinů a bojovat na zajímavých mapách.;2022;FPS
+25;Uncharted 4: a Thiefs End;image_25.webp;Dobrodružná hra s filmovým příběhem a akčními momenty. Hráči se vydávají na epickou cestu za pokladem.;2016;Adventure
+26;Resident Evil 2;image_26.webp;Dobrodružná hra s filmovým příběhem a akčními momenty. Hráči se vydávají na epickou cestu za pokladem.;2019;Horror
+27;Forza Horizon 5;image_27.webp;Otevřený svět závodů s nádhernými krajinami a realistickými vozy. Hra nabízí nekonečné možnosti pro milovníky rychlosti.;2021;Racing
+28;Baluders Gate 3;image_28.webp;Fantasy RPG s epickým příběhem, propracovanými postavami a hlubokou hratelností. Hráči se vydávají na dobrodružství plné magie a nebezpečí.;2023;RPG
+29;Firewatch;image_29.webp;Emocionální adventura v krásném a poklidném lese. Příběh zkoumá lidské vztahy a tajemství, která se skrývají v přírodě.;2016;Adventure
+3;Outlast;image_3.webp;Hororová survival hra, která vás vtáhne do děsivé atmosféry opuštěného sanatoria. Vaším cílem je přežít a odhalit strašlivá tajemství, která se tam ukrývají.;2013;Horror
+30;The Witness;image_30.webp;Logická hra plná složitých hádanek na opuštěném ostrově. Hráči musí používat svou inteligenci k odhalení pravdy.;2016;Puzzle
+31;NHL 25;image_31.webp;Realistická hokejová simulace s nejnovějšími týmy a hráči. Hra nabízí pohlcující atmosféru NHL.;2023;Sports
+32;Portal 2;image_32.webp;Kultovní logická hra s originálním příběhem a fyzikálními hádankami. Hráči se musí vypořádat s nástrahami pomocí portálů.;2011;Puzzle
+33;Age of Empires IV;image_33.webp;Strategie zaměřená na budování civilizací a historické bitvy. Hráči vedou svůj národ ke slávě skrz staletí.;2021;RTS
+34;Dragon Age: The Veilguard;image_34.webp;Pokračování kultovní série plné magie, intrik a epických dobrodružství. Hráči ovlivňují osud světa svými rozhodnutími.;2024;RPG
+35;Battlefield 2024;image_35.webp;Akční střílečka budoucnosti s masivními boji a pokročilou technologií. Hráči se utkávají v intenzivních válkách na různých bojištích.;2024;FPS
+36;Gran Turismo 7;image_36.webp;Realistická závodní simulace s propracovanými vozy a tratěmi. Hráči mohou testovat své dovednosti v různých závodních módech.;2022;Racing
+37;FIFA 23;image_37.webp;Fotbalová simulace s nejnovějšími týmy a ligami. Hra nabízí realistickou hratelnost a dynamickou atmosféru stadionů.;2022;Sports
+38;Bloodborne;image_38.webp;Drsné RPG s temným gotickým světem a ikonickými bossy. Hráči se vydávají na nebezpečnou cestu plnou výzev a temných tajemství.;2015;Soulslike
+39;The Talos Principle;image_39.webp;Filozofická logická hra, která zkoumá povahu lidskosti a vědomí. Hráči řeší hádanky v nádherných prostředích a odhalují hluboký příběh.;2014;Puzzle
+4;Need for Speed: Heat;image_4.webp;Závodní hra plná adrenalinu, kde se hráči utkávají v nočních závodech. Skvělá grafika a otevřený svět nabízí neomezené možnosti pro milovníky rychlých aut.;2019;Racing
+5;Starcaft: Heart of the swarm;image_5.webp;Klasická real-time strategie zaměřená na boj mezi třemi rasami. Hráči musí stavět armády, rozšiřovat své základny a vést taktické bitvy.;2010;RTS
+6;Madden NFL24;image_6.webp;Nejnovější díl sportovní simulace amerického fotbalu. Nabízí realistické pohyby hráčů, autentické týmy a atmosféru NFL.;2023;Sports
+7;Tomb Raider;image_7.webp;Ikonická adventura o mladé archeoložce, která se musí vypořádat s drsnými podmínkami. Hra kombinuje akční souboje, řešení hádanek a průzkum starověkých ruin.;2013;Adventure
+8;Dark Souls III;image_8.webp;Soulslike akce známá svou vysokou obtížností, atmosférickým světem a ikonickými bossy. Přežijte v temném světě plném nepřátel a výzev, které vás prověří.;2016;Soulslike
+9;God of War: Ragnarok;image_9.webp;Pokračování příběhu Krata a jeho syna v prostředí severské mytologie. Hra nabízí epické bitvy a emocionální příběh, který vás nenechá chladnými.;2022;RPG

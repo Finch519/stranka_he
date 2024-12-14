@@ -1,0 +1,132 @@
+html, body {
+    margin: 0; 
+    padding: 0; 
+    overflow-x: hidden; 
+    width: 100%; 
+    height: 100%; 
+    background-color: black;
+}
+
+#header-image {
+    position: relative; 
+    width: 100vw; 
+    height: 500px; 
+    overflow: hidden; 
+}
+
+#header-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% -140px;
+    display: block;
+}
+
+
+#filters {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+#filters button {
+    padding: 10px 20px;
+    background: rgb(37, 36, 36);
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.3s, transform 0.3s;
+}
+
+#filters button:hover {
+    background: rgb(60, 0, 0);
+    transform: scale(1.05);
+}
+
+#gallery {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 30px;
+    padding: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.game {    
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 15px;
+    width: 230px;
+    height: 450px;
+    overflow: hidden;
+    transition: transform 0.3s;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+    margin-left: -12px;
+}
+
+.game img {
+    width: 100%;
+    height: 270px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.game-title {
+    font-weight: bold;
+    margin-top: 20px;
+    color: #ffffff;
+}
+
+.game-year {
+    font-size: 20px;
+    color: #cccccc;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.game-description {
+    font-size: 17px;
+    color: #b0b0b0;
+    margin-top: 10px;
+    text-align: left;
+    line-height: 1.4;
+    height: 60px;
+    text-overflow: ellipsis;
+}
+
+
+.game:hover {
+    transform: scale(1.1);
+    background: rgb(60, 0, 0);
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.8em;
+    color: #888;
+}
+
+.snowflake {
+    position: absolute;
+    font-size: 50px;
+    top: -10px;
+    border-radius: 50%;
+    color: white;
+    opacity: 0.8;
+    animation: fallAndSway linear infinite;
+}
+
+@keyframes fallAndSway {
+    0% {
+        transform: translateX(0) translateY(0);
+    }
+    50% {
+        transform: translateX(var(--swayDistance)) translateY(50vh);
+    }
+    100% {
+        transform: translateX(0) translateY(100vh);
+    }
+}
